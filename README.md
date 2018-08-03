@@ -313,6 +313,10 @@ Restaraunts w/o opening hours entry:  4169
 
 
 It is quite obvious that the OSM dataset is very poor in terms of opening hours.
+How could this be improved?
+I think the google way is really the best way to encourage users to provide feedback (is this information correct?) or to share information (can you tell me the opening hours of this restaurant?)
+My idea would be an OSM app, which accesses the GPS location of the device and gives the user a task to insert missing information, like missing opening hours for a shop.
+For each information the user provides, he will receive credits or earn level ups, like it is done in many projects as these times.
 
 
 # Conclusion
